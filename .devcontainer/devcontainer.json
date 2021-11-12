@@ -33,7 +33,11 @@
     "ms-python.python",
     "ms-python.vscode-pylance",
     "ms-toolsai.jupyter",
-    "ms-toolsai.jupyter-keymap"
+    "ms-toolsai.jupyter-keymap",
+    "mhutchie.git-graph",
+    "github.copilot",
+    "github.vscode-pull-request-github",
+    "eamodio.gitlens"
   ],
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
   // "forwardPorts": [],
