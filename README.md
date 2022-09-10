@@ -8,8 +8,8 @@ To avoid compatibility issues with other projects, and make it easier to start a
 
 ### Installed Versions
 
-- Pytorch 1.10
-- Cuda 11.3
+- Pytorch 1.12
+- Cuda 11.6
 - Jupyter Notebook
 
 ## Project Setup
