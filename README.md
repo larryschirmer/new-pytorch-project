@@ -23,9 +23,7 @@ To avoid compatibility issues with other projects, and make it easier to start a
 
 While the dev container is building, behind the scenes it will install the dependencies from the requirements.txt file.
 
-** Note: ** This project is configured to use Nvidia GPUs and run on a computer with Ubuntu installed.
-
-I have had success with running this project using Windows 11 with wsl but have moved everything over to Ubuntu because of system freezing issues. If you are using Windows 10 or 11 with wsl and are not expereincing issues, please submit a pull request with an explainantion of your expereince. I'd love to move back to windows in the future but I'm afraid of the system freezing issues.
+** Note: ** This project is configured to use Nvidia GPUs and run on a computer with Ubuntu installed. I have had success with running this project using Windows 11 with wsl and Ubuntu.
 
 If you are using MacOS, I leave the configuration as an exercise to the reader.
 
